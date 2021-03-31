@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IMDBApi.Interfaces/1.0.0": {
+        "dependencies": {
+          "IMDBApi.Models": "1.0.0"
+        },
+        "runtime": {
+          "IMDBApi.Interfaces.dll": {}
+        }
+      },
+      "IMDBApi.Models/1.0.0": {
+        "runtime": {
+          "IMDBApi.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMDBApi.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IMDBApi.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

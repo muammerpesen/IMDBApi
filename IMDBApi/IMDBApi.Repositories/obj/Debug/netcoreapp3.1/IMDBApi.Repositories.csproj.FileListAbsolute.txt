@@ -1,0 +1,14 @@
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\bin\Debug\netcoreapp3.1\IMDBApi.Repositories.deps.json
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\bin\Debug\netcoreapp3.1\IMDBApi.Repositories.dll
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\bin\Debug\netcoreapp3.1\IMDBApi.Repositories.pdb
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\bin\Debug\netcoreapp3.1\IMDBApi.Interfaces.dll
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\bin\Debug\netcoreapp3.1\IMDBApi.Interfaces.pdb
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\obj\Debug\netcoreapp3.1\IMDBApi.Repositories.csprojAssemblyReference.cache
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\obj\Debug\netcoreapp3.1\IMDBApi.Repositories.AssemblyInfoInputs.cache
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\obj\Debug\netcoreapp3.1\IMDBApi.Repositories.AssemblyInfo.cs
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\obj\Debug\netcoreapp3.1\IMDBApi.Repositories.csproj.CopyComplete
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\obj\Debug\netcoreapp3.1\IMDBApi.Repositories.dll
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\obj\Debug\netcoreapp3.1\IMDBApi.Repositories.pdb
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\bin\Debug\netcoreapp3.1\IMDBApi.Models.dll
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\bin\Debug\netcoreapp3.1\IMDBApi.Models.pdb
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Repositories\obj\Debug\netcoreapp3.1\IMDBApi.Repositories.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\bin\Debug\netcoreapp3.1\IMDBApi.Interfaces.deps.json
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\bin\Debug\netcoreapp3.1\IMDBApi.Interfaces.dll
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\bin\Debug\netcoreapp3.1\IMDBApi.Interfaces.pdb
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\obj\Debug\netcoreapp3.1\IMDBApi.Interfaces.csprojAssemblyReference.cache
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\obj\Debug\netcoreapp3.1\IMDBApi.Interfaces.AssemblyInfoInputs.cache
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\obj\Debug\netcoreapp3.1\IMDBApi.Interfaces.AssemblyInfo.cs
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\obj\Debug\netcoreapp3.1\IMDBApi.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\obj\Debug\netcoreapp3.1\IMDBApi.Interfaces.dll
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\obj\Debug\netcoreapp3.1\IMDBApi.Interfaces.pdb
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\bin\Debug\netcoreapp3.1\IMDBApi.Models.dll
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\bin\Debug\netcoreapp3.1\IMDBApi.Models.pdb
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Interfaces\obj\Debug\netcoreapp3.1\IMDBApi.Interfaces.csproj.CopyComplete

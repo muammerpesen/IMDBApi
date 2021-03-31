@@ -1,0 +1,9 @@
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Models\bin\Debug\netcoreapp3.1\IMDBApi.Models.deps.json
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Models\bin\Debug\netcoreapp3.1\IMDBApi.Models.dll
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Models\bin\Debug\netcoreapp3.1\IMDBApi.Models.pdb
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Models\obj\Debug\netcoreapp3.1\IMDBApi.Models.csprojAssemblyReference.cache
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Models\obj\Debug\netcoreapp3.1\IMDBApi.Models.AssemblyInfoInputs.cache
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Models\obj\Debug\netcoreapp3.1\IMDBApi.Models.AssemblyInfo.cs
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Models\obj\Debug\netcoreapp3.1\IMDBApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Models\obj\Debug\netcoreapp3.1\IMDBApi.Models.dll
+C:\Users\muamm\source\repos\IMDBApi\IMDBApi.Models\obj\Debug\netcoreapp3.1\IMDBApi.Models.pdb

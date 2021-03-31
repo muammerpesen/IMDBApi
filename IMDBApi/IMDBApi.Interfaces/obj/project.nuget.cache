@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2Yc+G+iCGIBHwDvoznSSbkL3j6ISjyVTm9ZuwZ2CSYX/bRo5ENT8q8DtQ9F6YhVPiehi1OPLkQ1fvEbUg3Tfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muamm\\source\\repos\\IMDBApi\\IMDBApi.Interfaces\\IMDBApi.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muamm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
